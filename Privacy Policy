@@ -1,0 +1,21 @@
+Privacy Policy for Apex Code Quality & Security Scanner
+
+This extension is designed to analyze Salesforce Apex classes for code quality and security vulnerabilities.
+
+Data Collection:
+- The extension does not collect or share personally identifiable information.
+- The extension only processes Apex code locally within the browser session.
+- Salesforce cookies are used solely for maintaining login sessions and are not stored, shared, or transmitted externally.
+
+Permissions Use:
+- activeTab, tabs, and host permissions are only used to analyze Salesforce pages open in the browser.
+- storage is used to save user preferences locally.
+- cookies are used only for authenticated Salesforce sessions.
+- scripting is used to inject analysis code into Salesforce pages to provide results inline.
+
+Data Sharing:
+- No user data is transmitted to external servers.
+- No analytics or tracking tools are used.
+
+Contact:
+For questions, please contact: [your email address]
